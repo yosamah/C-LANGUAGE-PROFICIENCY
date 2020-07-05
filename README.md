@@ -1,2 +1,2 @@
 # C-LANGUAGE-PROFICIENCY
-Solving problems under C proficiency practice on HackerRank
+Solving problems under C proficiency practice on HackerRank.
